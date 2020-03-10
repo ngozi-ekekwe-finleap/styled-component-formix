@@ -1,1 +1,1 @@
-# styled-component-formix
+# Styled components
